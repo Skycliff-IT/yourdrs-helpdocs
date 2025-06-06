@@ -1,0 +1,7 @@
+site_name: Yourdrs Help
+site_description: Documentation for Yourdrs Help
+site_author: Yourdrs Team
+site_url: https://yourdrs.com/help
+nav:
+  - Home: index.md
+  - About: about.md
