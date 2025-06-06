@@ -4,4 +4,7 @@ site_author: Yourdrs Team
 site_url: https://yourdrs.com/help
 nav:
   - Home: index.md
-  - About: about.md
+  - Office Dashboard:
+      - Overview: Office-Dashboard/Overview.md
+      - Features: Office-Dashboard/features.md
+theme: readthedocs
