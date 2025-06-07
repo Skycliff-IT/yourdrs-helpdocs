@@ -5,6 +5,6 @@ site_url: https://yourdrs.com/help
 nav:
   - Home: index.md
   - Office Dashboard:
-      - Overview: Office-Dashboard/Overview.md
-      - Features: Office-Dashboard/features.md
+      - Overview: office-dashboard/overview.md
+      - Features: office-dashboard/features.md
 theme: readthedocs

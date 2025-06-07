@@ -68,7 +68,7 @@ The Office Dashboard allows staff to **schedule, track, and manage appointments*
 ---
 
 ## Visual Guide
-![Office Dashboard Screenshot](placeholder_link_to_screenshot.png)  
+![Office Dashboard Screenshot](../Office-Dashboard/asset/Overview.png)  
 *Annotations*:  
 1. **A**: Filters section.  
 2. **B**: Kanban columns with appointment cards.  
