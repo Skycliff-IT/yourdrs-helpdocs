@@ -7,4 +7,5 @@ nav:
   - Office Dashboard:
       - Overview: office-dashboard/overview.md
       - Features: office-dashboard/features.md
-theme: readthedocs
+theme:
+  name: material
